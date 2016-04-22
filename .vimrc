@@ -5,3 +5,4 @@ set shiftwidth=4
 set expandtab 
 set smarttab
 inoremap jj <ESC>
+syntax on
